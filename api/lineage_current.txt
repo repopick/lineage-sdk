@@ -404,10 +404,6 @@ package lineageos.platform {
     ctor public R.bool();
   }
 
-  public static final class R.dimen {
-    ctor public R.dimen();
-  }
-
   public static final class R.drawable {
     ctor public R.drawable();
   }
